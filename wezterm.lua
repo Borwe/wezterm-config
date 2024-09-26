@@ -7,5 +7,6 @@ config.font_size=14.0
 config.window_frame = {
         font_size = 11.0
 }
+config.default_prog={"powershell.exe"}
 
 return config

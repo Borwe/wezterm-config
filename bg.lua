@@ -1,1 +1,1 @@
-return 'Catppuccin Latte'
+return 'Catppuccin Mocha'
